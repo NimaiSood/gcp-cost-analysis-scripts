@@ -1,0 +1,14 @@
+# Google Cloud SDK dependencies
+google-cloud-billing>=1.12.0
+google-cloud-compute>=1.15.0
+google-cloud-storage>=2.10.0
+google-cloud-monitoring>=2.15.0
+
+# Data processing and Excel generation
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Additional utilities
+google-api-core>=2.11.0
+google-auth>=2.22.0
+protobuf>=4.24.0
